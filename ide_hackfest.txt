@@ -1,0 +1,31 @@
+RESPONSIBLE CONSUMPTION AND PRODUCTION 
+
+
+Membuat aplikasi untuk pengguna bisa memilah sampah dengan cara menjual sampah sesuai dengan kriteria. Pengguna akan mendapatkan uang.
+
+Membuat lokasi untuk penampung.
+
+
+Memotivasi orang untuk memilah sampah dengan memberikan reward berupa uang yang bisa ditukar menjadi uang sesuai dengan kriteria
+Mengurangi pencemaran lingkungan yang disebabkan oleh sampah, khususnya sampah plastik.
+
+Aplikasi Fitur:
+Lokasi penampung
+Kalkulator sampah
+Daftar harga barang, berupa rincian harga, spesifikasi
+Informasi
+Akun profil
+Chatbot AI sebagai CS dan mentoring
+
+History penjualan - 
+ 
+Target:semua orang
+Customer relationship: Mendapatkan reward berupa uang dari banyaknya sampah yang ditukar
+Channel: Media sosial
+Key aktivitis: 
+Key resources: Flutter, Firebase, google maps API, Gemini AI
+Key partner: pengepul sampah, rumah daur ulang
+Revenue Streams: 
+keuntungan dari penjualan barang bekas ke pengepul, keuntungan dari rumah daur ulang
+Cost: 
+
