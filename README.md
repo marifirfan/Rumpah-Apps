@@ -7,6 +7,10 @@ RUMPAH juga dapat diartikan sebagai "Rumah Sampah" yang artinya terdapat lokasi 
 Sehingga dengan adanya RUMPAH diharapkan masyarakat lebih menyadari terhadap lingkungan disekitarnya, karena dari tindakan kecil dapat membuat hasil yang besar. Keuntungan yang kami dapatkan dari aplikasi ini berdasarkan kerja sama dengan pengepul sampah dan juga rumah daur ulang. 
 
 Screenshoot :
+
+
 ![image](https://github.com/marifirfan/Rumpah-Apps/assets/120929951/b62c538b-ff31-423b-b92c-68197e37d3d1)
+
+
 ![image](https://github.com/marifirfan/Rumpah-Apps/assets/120929951/2886177d-0c13-4dd6-98aa-eeaac16207ee)
 
