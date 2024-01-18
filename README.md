@@ -1,4 +1,4 @@
-![gambar](https://github.com/marifirfan/Rumpah-Apps/assets/120929951/d92415ee-4a7a-4620-9af2-a445003f1906)Kami dari tim devcom sedang mengembangkan aplikasi untuk menjadikan sampah lebih berguna,
+Kami dari tim devcom sedang mengembangkan aplikasi untuk menjadikan sampah lebih berguna,
 
 RUMPAH : Rupiah dari Sampah adalah aplikasi yang bertujuan untuk memberikan gerakan terhadap semua golongan untuk bisa memilah serta mengumpulkan sampah dengan imbalan finansial. Jadi setiap orang bisa menukarkan beberapa jenis sampah menjadi uang. Setiap segmen dalam kontribusi RUMPAH mendapatkan keuntungan tersendiri, seperti penjual sampah mendapatkan imbalan rupiah dan juga dapat mengurangi pencemaran lingkungan yang disebabkan oleh sampah, khususnya sampah plastik. Aplikasi RUMPAH dibuat menggunakan full product google menggunakan Flutter, Firebase, google maps API dan Gemini AI. Dalam prosedur aplikasi ini juga bekerja sama dengan pengepul sampah dan juga rumah daur ulang. 
 
